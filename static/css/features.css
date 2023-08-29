@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.navparent{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+    outline: 1px solid gold;
+}
+.nav-link{
+    background-color: gold !important;
+    margin: 2px;
+    color: black !important;
+    border-radius: 2px !important;
+}
+.genlink{
+    background-color: gold !important;
+    color: black !important;
+    outline: black !important;
+}
+#inlink{
+    color: white !important;
+}
+#inputlink{
+    background-color: black !important;
+    color: gold;
+}
+body{
+    background: linear-gradient(89.7deg, rgb(0, 0, 0) -10.7%, rgb(53, 92, 125) 88.8%);
+}
+#shortlnk{
+    color: white;
+}
+.shlnktxt{
+    background-color: black !important;
+    color: gold;
+}
+.nav-butn{
+    background-color: black !important;
+    margin: 1px !important;
+}
+.table{
+    color: white !important;
+}
+body, p, h1, h2, h3, h4, h5, h6, a, button, input, label, table, th, td {
+    font-family: 'Overpass', sans-serif;
+}
+.feature h2{
+    color: gold;
+    border: 2px solid gold;
+    padding: 4px;
+}
+.feature  h4{
+      color: gold;
+}
+.feature p{
+    color: white;
+}
