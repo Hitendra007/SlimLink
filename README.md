@@ -15,7 +15,8 @@ SlimLink is a web application developed using Django that allows users to genera
 
 ## Installation and Usage
 
-1. **Clone the Repository:** `git@github.com:Hitendra007/SlimLink.git`
+1. **Clone the Repository:**
+    `git@github.com:Hitendra007/SlimLink.git`
    
 2. **Navigate to the Project Directory:**
 
