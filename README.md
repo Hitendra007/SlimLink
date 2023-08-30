@@ -26,7 +26,7 @@ SlimLink is a web application developed using Django that allows users to genera
 ## Installation and Usage
 
 1. **Clone the Repository:**
-    `https://github.com/Hitendra007/SlimLink.git`
+    ```https://github.com/Hitendra007/SlimLink.git```
    
 2. **Navigate to the Project Directory:**
    `cd SlimLink`
@@ -34,7 +34,7 @@ SlimLink is a web application developed using Django that allows users to genera
    `from requirements.txt`
 
 4. **Run the Development Server:**
-   `python manage.py runserver`
+   ```python manage.py runserver```
 5. **Visit:**
    `http://127.0.0.1:8000/` in your web browser to access the SlimLink application.
 
