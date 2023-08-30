@@ -25,7 +25,7 @@ SlimLink is a web application developed using Django that allows users to genera
 
 4. **Run the Development Server:**
    `python manage.py runserver`
-Visit `http://127.0.0.1:8000/` in your web browser to access the SlimLink application.
+- **Visit:** `http://127.0.0.1:8000/` in your web browser to access the SlimLink application.
 
 ## Technologies Used
 
